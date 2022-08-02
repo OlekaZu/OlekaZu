@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you here.
 
+#### __School 21 student__
+
+- 🌱 I’m currently learning C++ and C#
 <!--
 **OlekaZu/OlekaZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
