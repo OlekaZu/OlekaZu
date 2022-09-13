@@ -2,7 +2,8 @@
 
 #### __School 21 student__
 
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++ and C#,
+      using QT-platform and Unity
 <!--
 **OlekaZu/OlekaZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
