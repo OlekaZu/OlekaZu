@@ -2,8 +2,10 @@
 
 #### __School 21 student__
 
-- 🌱 I’m currently learning C++ and C#,
-      using QT-platform and Unity
+- 👩‍🎓 I’m currently learning C++ and C#.
+- 💻 I'm using QT IDE, Microsoft Visual Studio and VS Code, and also Unity.
+- 🌱 I'm acquainted with PostreSQL and DataGrip.
+
 <!--
 **OlekaZu/OlekaZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
