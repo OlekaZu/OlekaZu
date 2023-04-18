@@ -6,6 +6,7 @@
 - 💻 I'm using QT IDE, Microsoft Visual Studio and VS Code, and also Unity.
 - 🌱 I'm acquainted with PostreSQL and DataGrip.
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OlekaZu)](https://github.com/OlekaZu/github-readme)
 <!--
 **OlekaZu/OlekaZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
