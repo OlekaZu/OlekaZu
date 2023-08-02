@@ -2,9 +2,10 @@
 
 #### __School 21 student__
 
-- 👩‍🎓 I’m currently learning C++ and C#.
-- 💻 I'm using QT IDE, Microsoft Visual Studio and VS Code, and also Unity.
+- 👩‍🎓 I'm currently learning C++ and C#/.NET.
+- 💻 I'm using QT IDE, Microsoft Visual Studio and VS Code.
 - 🌱 I'm acquainted with PostreSQL and DataGrip.
+- 🔭 I'm plannig to begin learning Unity.
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OlekaZu)](https://github.com/OlekaZu/github-readme)
 <!--
